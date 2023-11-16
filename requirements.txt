@@ -1,0 +1,4 @@
+cohere==4.32
+langchain==0.0.330
+python-dotenv==1.0.0
+TTS==0.19.1
